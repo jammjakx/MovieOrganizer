@@ -1,0 +1,9 @@
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\bin\Debug\MovieOrganizer.exe.config
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\bin\Debug\MovieOrganizer.exe
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\bin\Debug\MovieOrganizer.pdb
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\obj\Debug\MovieOrganizer.csprojResolveAssemblyReference.cache
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\obj\Debug\MovieOrganizer.Properties.Resources.resources
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\obj\Debug\MovieOrganizer.csproj.GenerateResource.Cache
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\obj\Debug\MovieOrganizer.exe
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\obj\Debug\MovieOrganizer.pdb
+c:\users\ralph\documents\visual studio 2015\Projects\MovieOrganizer\MovieOrganizer\obj\Debug\MovieOrganizer.Form1.resources
